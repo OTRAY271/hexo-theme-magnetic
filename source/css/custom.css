@@ -8,3 +8,9 @@ td, th {
   border: 1px solid black;
   vertical-align: middle;
 }
+
+.ovalbox {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 20px;
+}
