@@ -14,3 +14,7 @@ td, th {
   padding: 10px;
   border-radius: 20px;
 }
+
+.main .work .caption {
+  opacity: 0.6;
+}
