@@ -23,7 +23,7 @@
 
 
 /*  Fonts  */
-@font-face {
+/*@font-face {
     font-family: 'raleway-regular';
     src: url('../fonts/raleway-regular.eot');
     src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
@@ -59,9 +59,11 @@
     font-weight: normal;
     font-style: normal;
 
+}*/
+
+* {
+    font-family: 'Noto Sans JP', sans-serif !important;
 }
-
-
 
 /*  General CSS*/
 body{
